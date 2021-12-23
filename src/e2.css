@@ -1,0 +1,57 @@
+@import '~antd/dist/antd.css';
+.Main{
+    display:flex;
+}
+.div_cal{
+    margin: 0 auto;
+    }
+#style1{
+    background-color:rgb(92,91,89);
+    color: white;
+
+
+}
+.style2{
+
+    background-color:rgb(107,106,104);
+    color: white;
+
+}
+.style3{
+    color: white;
+    background-color:rgb(249,157,70);
+
+}
+.style4{
+    color: white;
+    background-color:rgb(132,131,129);
+
+}
+#div_row1{
+    display:flex;
+}
+#div_row2{
+    display:flex;
+}
+
+.div_row3{
+    display:flex;
+
+}
+#div_row4{
+    display:flex;
+
+}
+#div_row5{
+    display:flex;
+
+}
+#div_row6{
+    /*display:flex;*/
+
+}
+#div_row7{
+    display:flex;
+
+}
+
