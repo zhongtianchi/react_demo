@@ -3,10 +3,10 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-import E2 from './e2';
+import E3 from './e3';
 ReactDOM.render(
   <React.StrictMode>
-    <E2 />
+    <E3 />
   </React.StrictMode>,
   document.getElementById('root')
 );
